@@ -14,7 +14,7 @@ contract Dex {
     address public admin;
     
     constructor() public {
-        admin = msg.sender;asdsdfsdsd
+        admin = msg.sender;
     }
     
     function addToken(
